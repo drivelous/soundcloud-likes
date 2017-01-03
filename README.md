@@ -1,9 +1,14 @@
 # sc-likes
+![Image of Downloads]
+(http://imgur.com/L7yTzzH.png)
 Download all the songs from your SoundCloud Likes
 
 Running this script will download all of the songs in your soundcloud likes in a directory named `songs`.
+
 A file named `downloaded.txt` will be created which keeps tracks of all the files you have successfully downloaded
+
 A file named `errors.txt` will be created which keeps tracks of all the songs that errored out on download
+
 Optionally, you can create a file within the `sc-likes` directory called `ignored.txt` that has soundcloud links that should be ignored.
 
 ## Setup (Mac)
