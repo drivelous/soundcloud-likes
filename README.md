@@ -1,7 +1,8 @@
 # sc-likes
+Download all the songs from your SoundCloud Likes
+
 ![Image of Downloads]
 (http://imgur.com/L7yTzzH.png)
-Download all the songs from your SoundCloud Likes
 
 Running this script will download all of the songs in your soundcloud likes in a directory named `songs`.
 
