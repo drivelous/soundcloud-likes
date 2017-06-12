@@ -13,7 +13,7 @@ ch = logging.StreamHandler(sys.stdout)
 ch.setLevel(logging.INFO)
 logger.addHandler(ch)
 
-CLIENT_ID = 'fDoItMDbsbZz8dY16ZzARCZmzgHBPotA'
+CLIENT_ID = '2t9loNQH90kzJcsFCODdigxfp325aq4z'
 REPEATABLE_PARAMS = '&app_version=1478268854&client_id=' + CLIENT_ID
 SEED_URL = 'https://api-v2.soundcloud.com/users/{user_id}/likes?offset=0&limit=100'
 
